@@ -1,0 +1,70 @@
+.container {
+    padding-top: 10px;
+}
+
+h1 {
+    color: #BCBCBC;
+    margin: 10px 0;
+}
+
+h3 {
+    margin-bottom: 6px;
+    vertical-align: top;
+}
+
+h4 {
+    display: inline;
+}
+
+hr {
+    background-color: #fff;
+    border: #ccc 1px dotted;
+    border-style: none none dotted;
+    margin: 8px 0px;
+}
+
+.name {
+    color: #333;
+    font-weight: bold;
+}
+
+.center {
+    text-align: center;
+}
+
+.tech {
+    color: #009900;
+    font-weight: bold;
+    text-indent: 18px;
+}
+
+.intro {
+    text-indent: 18px;
+}
+
+.pipe {
+    color: #ccc;
+}
+
+.ss {
+    padding-top: 18px;
+}
+
+.footer {
+    text-align: center;
+    margin-top: 30px;
+    color: #888;
+}
+
+.email {
+    color: #CC0000;
+    font-weight: bold;
+}
+
+.links {
+    padding-top: 4px;
+}
+
+.quote {
+    margin-top: 10px;
+}
