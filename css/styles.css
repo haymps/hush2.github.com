@@ -65,6 +65,13 @@ hr {
     padding-top: 4px;
 }
 
-.quote {
-    margin-top: 10px;
+.multi p {
+    padding: 2px;
+    margin: 0px;
 }
+
+.multi {
+    margin-bottom: 8px;
+}
+
+
